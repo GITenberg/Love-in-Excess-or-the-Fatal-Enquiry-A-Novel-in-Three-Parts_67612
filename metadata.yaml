@@ -1,5 +1,8 @@
 _repo: Love-in-Excess-or-the-Fatal-Enquiry-A-Novel-in-Three-Parts_67612
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67612-h/images/cover.jpg
 creator:
   author:
     agent_name: Haywood, Eliza Fowler
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3687
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Haywood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67612#Love-in-Excess-or-the-Fatal-Enquiry-A-Novel-in-Three-Parts
 gutenberg_issued: '2022-03-12'
 identifiers:
   gutenberg: '67612'
